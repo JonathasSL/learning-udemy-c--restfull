@@ -23,3 +23,4 @@ D:\Bibliotecas\Documents\DEV\Learning\Repositories\learning-udemy-c--restfull\We
 D:\Bibliotecas\Documents\DEV\Learning\Repositories\learning-udemy-c--restfull\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 D:\Bibliotecas\Documents\DEV\Learning\Repositories\learning-udemy-c--restfull\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 D:\Bibliotecas\Documents\DEV\Learning\Repositories\learning-udemy-c--restfull\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+D:\Bibliotecas\Documents\DEV\Learning\Repositories\learning-udemy-c--restfull\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
