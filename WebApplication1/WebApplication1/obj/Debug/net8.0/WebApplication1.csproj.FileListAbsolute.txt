@@ -24,3 +24,11 @@ D:\Bibliotecas\Documents\DEV\Learning\Repositories\learning-udemy-c--restfull\We
 D:\Bibliotecas\Documents\DEV\Learning\Repositories\learning-udemy-c--restfull\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 D:\Bibliotecas\Documents\DEV\Learning\Repositories\learning-udemy-c--restfull\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
 D:\Bibliotecas\Documents\DEV\Learning\Repositories\learning-udemy-c--restfull\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
+D:\Bibliotecas\Documents\DEV\Learning\Repositories\learning-udemy-c--restfull\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+D:\Bibliotecas\Documents\DEV\Learning\Repositories\learning-udemy-c--restfull\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Bibliotecas\Documents\DEV\Learning\Repositories\learning-udemy-c--restfull\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Bibliotecas\Documents\DEV\Learning\Repositories\learning-udemy-c--restfull\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Bibliotecas\Documents\DEV\Learning\Repositories\learning-udemy-c--restfull\WebApplication1\WebApplication1\bin\Debug\net8.0\MySqlConnector.dll
+D:\Bibliotecas\Documents\DEV\Learning\Repositories\learning-udemy-c--restfull\WebApplication1\WebApplication1\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Bibliotecas\Documents\DEV\Learning\Repositories\learning-udemy-c--restfull\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CopyComplete
+D:\Bibliotecas\Documents\DEV\Learning\Repositories\learning-udemy-c--restfull\WebApplication1\WebApplication1\bin\Debug\net8.0\Geolocation.dll

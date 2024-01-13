@@ -9,6 +9,8 @@ builder.Services.AddControllers();
 
 //Dependency Injection
 builder.Services.AddScoped<IPersonService, PersonServiceImplementation>();
+builder.Services.AddScoped<ILocationService, LocationService>();
+builder.Services.AddScoped<ICalculatorService, CalculatorService>();
 
 var app = builder.Build();
 

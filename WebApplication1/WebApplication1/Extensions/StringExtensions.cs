@@ -24,6 +24,14 @@ namespace WebApplication1.Extensions
                 return 0;
         }
 
+        public static double ConvertToDouble(this string value)
+        {
+            if (double.TryParse(value,  out var output))
+                return output;
+            else 
+                return 0;
+        }
+
         public static bool IsEmptyOrNull(this string value)
         {
             if (value != null)
